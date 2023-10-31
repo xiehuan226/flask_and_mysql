@@ -1,0 +1,2 @@
+# flask_and_mysql
+通过flask创建处理数据库mysql的api接口
